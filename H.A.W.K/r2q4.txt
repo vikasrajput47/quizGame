@@ -1,0 +1,7 @@
+
+
+Question 4. If the cost of x metres of wire is d rupees, then what is the cost of y metres of wire at the same rate?
+[A] Rs. xyd
+[B] Rs. (xd)
+[C] Rs. (yd)
+[D] Rs. yd/x

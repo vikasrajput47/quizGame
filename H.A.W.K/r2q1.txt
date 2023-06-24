@@ -1,0 +1,7 @@
+
+
+Question 1. Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?
+[A] 210
+[B] 1050
+[C] 25200
+[D] 21400

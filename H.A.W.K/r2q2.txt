@@ -1,0 +1,10 @@
+
+
+Question 2. A train can travel 50% faster than a car. 
+Both start from point A at the same time and reach point B, 75 kms away from A, at the same time. 
+On the way, however, the train lost about 12.5 minutes while stopping at the stations.
+The speed of the car is:
+[A] 100 km/h
+[B] 110 km/h
+[C] 120 km/h
+[D] 130 km/h

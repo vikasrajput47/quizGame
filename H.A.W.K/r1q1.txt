@@ -1,0 +1,8 @@
+Question 1. Which among the following keep changing for a body in uniform circular motion?
+1. Speed			2. Amplitude
+3. Velocity			4. Acceleration
+Choose the correct option from the codes given below:
+[A] Only 1 & 2
+[B] Only 2 & 3
+[C] Only 3 & 4
+[D] Only 1 & 4
